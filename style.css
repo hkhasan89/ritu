@@ -1,0 +1,51 @@
+.mn{
+    color:#F78567 ;
+}
+.jj{
+    width:40% ;
+    display: inline-block;
+    margin: 4%;
+}
+.nn{
+  box-shadow:#F78567 2px 2px 2px 2px;  
+  height: 200px;
+  width: 400px;
+
+padding-left: 50px;
+padding-top: 40px;
+
+margin:10px ;
+
+  
+}
+.vv{
+    width:550px ;
+}
+.ff{
+   background-image: url("img/top-banner.png");
+   background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+}
+.kk{
+    width: 400px; 
+}
+.ll{
+    background-image:url(img/dream-bg.png) ;
+    height:auto ;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.pp{
+    width: 40%;
+    box-shadow: #F78567 5px 5px 5px 5px;
+    display: inline-block;
+    margin: 4%;
+    padding: 10px;
+}
+.ft{
+    background-image: url("img/exp-bg.png");
+    height: auto;
+    background-repeat: no-repeat;
+}

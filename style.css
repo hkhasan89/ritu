@@ -49,3 +49,147 @@ body{
     height: auto;
     background-repeat: no-repeat;
 }
+
+@media only screen and (max-width: 600px) {
+    
+    .jj{
+        width: 300px;
+        display: inline-block;
+        
+        
+    }
+    .jj h1 {
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj h3{
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj p{
+        text-align: justify;
+        margin-left:20% ;
+    }
+    .vv{
+        width: 400px;
+    }
+    .nn{
+        width: 300px;
+        margin-left:10% ;
+    }
+    .kk{
+        width: 300px;
+        margin-left:10% ; 
+    }
+    .pp{
+        width:90% ;
+        
+
+    }
+
+
+
+}
+@media only screen and (min-width: 600px) {
+    
+    .jj{
+        width: 300px;
+        display: inline-block;
+        
+        
+    }
+    .jj h1 {
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj h3{
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj p{
+        text-align: justify;
+        margin-left:20% ;
+    }
+    .vv{
+        width: 400px;
+    }
+    .nn{
+        width: 300px;
+        margin-left:10% ;
+    }
+    .kk{
+        width: 300px;
+        margin-left:10% ; 
+    }
+    .pp{
+        width:90% ;
+
+    }
+
+
+
+}
+
+
+@media only screen and (min-width: 768px) {
+    .jj{
+        width: 40%;
+        display: inline-block;
+
+    }
+    .vv{
+        width: 400px;
+    }
+    .nn{
+        width: 100%;
+    }
+    .jj h1 {
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj h3{
+        text-align: center;
+        margin-left:28% ;
+    }
+    .jj p{
+        text-align: justify;
+        margin-left:20% ;
+    }
+    .pp{
+        width: 30%;
+        display: inline-block;
+        margin-left:10% ;
+    }
+
+}
+@media only screen and (min-width: 992px) {
+.vv{
+    width: 600px; 
+
+}
+.oo{
+   padding:20px ;
+}
+.kk{
+    width:450px ;
+}
+.pp{
+   width:34% ;
+   display:inline-block;
+}
+ 
+}
+@media only screen and (min-width: 1200px) {
+    .jj{
+        width:40% ;
+        display: inline-block;
+        margin: 4%;
+    }  
+
+
+}
+
+.nv{
+    margin: 5px;
+}
+ 
